@@ -12,7 +12,7 @@ namespace thostin1_assignment01_cmpe1300
         {
             int cans = 0;
             double cpc;
-
+            //cost per can
 
             Console.WriteLine("\t\t\t\t\t\tICA01 - Taylor Hostin");
 
