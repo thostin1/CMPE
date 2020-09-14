@@ -1,0 +1,7 @@
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\thostin1-assignment01-cmpe1300\thostin1-assignment01-cmpe1300\bin\Debug\thostin1-assignment01-cmpe1300.exe.config
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\thostin1-assignment01-cmpe1300\thostin1-assignment01-cmpe1300\bin\Debug\thostin1-assignment01-cmpe1300.exe
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\thostin1-assignment01-cmpe1300\thostin1-assignment01-cmpe1300\bin\Debug\thostin1-assignment01-cmpe1300.pdb
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\thostin1-assignment01-cmpe1300\thostin1-assignment01-cmpe1300\obj\Debug\thostin1-assignment01-cmpe1300.csprojAssemblyReference.cache
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\thostin1-assignment01-cmpe1300\thostin1-assignment01-cmpe1300\obj\Debug\thostin1-assignment01-cmpe1300.csproj.CoreCompileInputs.cache
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\thostin1-assignment01-cmpe1300\thostin1-assignment01-cmpe1300\obj\Debug\thostin1-assignment01-cmpe1300.exe
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\thostin1-assignment01-cmpe1300\thostin1-assignment01-cmpe1300\obj\Debug\thostin1-assignment01-cmpe1300.pdb

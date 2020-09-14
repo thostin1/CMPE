@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{4D86FAE7-153F-4C61-939B-8C3A12E0BA5D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thostin1-assignment01-cmpe1300", "thostin1-assignment01-cmpe1300\thostin1-assignment01-cmpe1300.csproj", "{193ED27D-E2B7-4E07-B2B6-EF25EB62489D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4D86FAE7-153F-4C61-939B-8C3A12E0BA5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4D86FAE7-153F-4C61-939B-8C3A12E0BA5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4D86FAE7-153F-4C61-939B-8C3A12E0BA5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4D86FAE7-153F-4C61-939B-8C3A12E0BA5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{193ED27D-E2B7-4E07-B2B6-EF25EB62489D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{193ED27D-E2B7-4E07-B2B6-EF25EB62489D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{193ED27D-E2B7-4E07-B2B6-EF25EB62489D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{193ED27D-E2B7-4E07-B2B6-EF25EB62489D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8CCEA18B-B709-4168-8B18-8EBB86AD1069}
+		SolutionGuid = {4A9F94FA-5138-4826-AC7A-8C7F53C8859E}
 	EndGlobalSection
 EndGlobal
