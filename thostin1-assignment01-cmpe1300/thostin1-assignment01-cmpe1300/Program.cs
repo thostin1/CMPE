@@ -10,24 +10,24 @@ namespace thostin1_assignment01_cmpe1300
     {
         static void Main(string[] args)
         {
-            int cans = 0;
+            int numOfCans = 0;
             double costPerCan;
-            //cost per can
+            
 
             Console.WriteLine("\t\t\t\t\t\tICA01 - Taylor Hostin");
 
 
             Console.Write("\nEnter the number of cans of pop to purchase: ");
-            cans = int.Parse(Console.ReadLine());
+            numOfCans = int.Parse(Console.ReadLine());
 
             Console.Write("Enter the cost per can: ");
             costPerCan = double.Parse(Console.ReadLine());
 
-            double gst = ((cans * costPerCan) * 0.05);
-            Console.Write($"\nThe GST is {gst:C2}", gst);
+            double salesTax = ((numOfCans * costPerCan) * 0.05);
+            Console.Write($"\nThe GST is {salesTax:C2}", salesTax);
 
-            double tc = gst + (cans + costPerCan);
-            Console.Write($"\n\nThe total cost is {tc:C2}", tc);
+            double totalCost = salesTax + (costPerCan * numOfCans);
+            Console.Write($"\n\nThe total cost is {totalCost:C2}", totalCost);
 
             Console.Write("\n\nPress the <enter> key to exit:");
 

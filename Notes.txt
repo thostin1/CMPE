@@ -1,0 +1,16 @@
+Logical Problem Solving Steps
+	1) Problem
+	2) Output (what is it supposed to produce)
+	3) Input (what are we putting into it)
+	4) Solution
+	5) Test Solution
+	6) Code Solution
+	7) Test Code
+
+Software Development driven by use cases through the core workflows (RADIT)
+	+ Requirements
+	+ Analysis
+	+ Design
+	+ Implementation
+	+ Test
+
