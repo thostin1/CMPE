@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICA06-GDIDrawer_cont.-TaylorHostin", "ICA06-GDIDrawer_cont.-TaylorHostin\ICA06-GDIDrawer_cont.-TaylorHostin.csproj", "{F588DE1F-7D55-4441-B1C0-E0A635562781}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F588DE1F-7D55-4441-B1C0-E0A635562781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F588DE1F-7D55-4441-B1C0-E0A635562781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F588DE1F-7D55-4441-B1C0-E0A635562781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F588DE1F-7D55-4441-B1C0-E0A635562781}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {613E0A98-DA3A-4C82-A965-1E19C413619F}
+	EndGlobalSection
+EndGlobal

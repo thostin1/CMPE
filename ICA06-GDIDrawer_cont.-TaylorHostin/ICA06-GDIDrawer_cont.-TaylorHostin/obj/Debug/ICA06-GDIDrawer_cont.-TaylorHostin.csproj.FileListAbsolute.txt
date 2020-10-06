@@ -1,0 +1,9 @@
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA06-GDIDrawer_cont.-TaylorHostin\ICA06-GDIDrawer_cont.-TaylorHostin\obj\Debug\ICA06-GDIDrawer_cont.-TaylorHostin.csprojAssemblyReference.cache
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA06-GDIDrawer_cont.-TaylorHostin\ICA06-GDIDrawer_cont.-TaylorHostin\obj\Debug\ICA06-GDIDrawer_cont.-TaylorHostin.csproj.CoreCompileInputs.cache
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA06-GDIDrawer_cont.-TaylorHostin\ICA06-GDIDrawer_cont.-TaylorHostin\bin\Debug\ICA06-GDIDrawer_cont.-TaylorHostin.exe.config
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA06-GDIDrawer_cont.-TaylorHostin\ICA06-GDIDrawer_cont.-TaylorHostin\bin\Debug\ICA06-GDIDrawer_cont.-TaylorHostin.exe
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA06-GDIDrawer_cont.-TaylorHostin\ICA06-GDIDrawer_cont.-TaylorHostin\bin\Debug\ICA06-GDIDrawer_cont.-TaylorHostin.pdb
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA06-GDIDrawer_cont.-TaylorHostin\ICA06-GDIDrawer_cont.-TaylorHostin\bin\Debug\GDIDrawer.dll
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA06-GDIDrawer_cont.-TaylorHostin\ICA06-GDIDrawer_cont.-TaylorHostin\obj\Debug\ICA06-GDIDrawer_cont.-TaylorHostin.csproj.CopyComplete
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA06-GDIDrawer_cont.-TaylorHostin\ICA06-GDIDrawer_cont.-TaylorHostin\obj\Debug\ICA06-GDIDrawer_cont.-TaylorHostin.exe
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA06-GDIDrawer_cont.-TaylorHostin\ICA06-GDIDrawer_cont.-TaylorHostin\obj\Debug\ICA06-GDIDrawer_cont.-TaylorHostin.pdb
