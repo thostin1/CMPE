@@ -1,0 +1,13 @@
+C:\Users\thost\source\repos\ICA04-Rock_Paper_Scissors-TaylorHostin\ICA04-Rock_Paper_Scissors-TaylorHostin\obj\Debug\netcoreapp3.1\ICA04-Rock_Paper_Scissors-TaylorHostin.csprojAssemblyReference.cache
+C:\Users\thost\source\repos\ICA04-Rock_Paper_Scissors-TaylorHostin\ICA04-Rock_Paper_Scissors-TaylorHostin\obj\Debug\netcoreapp3.1\ICA04-Rock_Paper_Scissors-TaylorHostin.AssemblyInfoInputs.cache
+C:\Users\thost\source\repos\ICA04-Rock_Paper_Scissors-TaylorHostin\ICA04-Rock_Paper_Scissors-TaylorHostin\obj\Debug\netcoreapp3.1\ICA04-Rock_Paper_Scissors-TaylorHostin.AssemblyInfo.cs
+C:\Users\thost\source\repos\ICA04-Rock_Paper_Scissors-TaylorHostin\ICA04-Rock_Paper_Scissors-TaylorHostin\obj\Debug\netcoreapp3.1\ICA04-Rock_Paper_Scissors-TaylorHostin.csproj.CoreCompileInputs.cache
+C:\Users\thost\source\repos\ICA04-Rock_Paper_Scissors-TaylorHostin\ICA04-Rock_Paper_Scissors-TaylorHostin\bin\Debug\netcoreapp3.1\ICA04-Rock_Paper_Scissors-TaylorHostin.exe
+C:\Users\thost\source\repos\ICA04-Rock_Paper_Scissors-TaylorHostin\ICA04-Rock_Paper_Scissors-TaylorHostin\bin\Debug\netcoreapp3.1\ICA04-Rock_Paper_Scissors-TaylorHostin.deps.json
+C:\Users\thost\source\repos\ICA04-Rock_Paper_Scissors-TaylorHostin\ICA04-Rock_Paper_Scissors-TaylorHostin\bin\Debug\netcoreapp3.1\ICA04-Rock_Paper_Scissors-TaylorHostin.runtimeconfig.json
+C:\Users\thost\source\repos\ICA04-Rock_Paper_Scissors-TaylorHostin\ICA04-Rock_Paper_Scissors-TaylorHostin\bin\Debug\netcoreapp3.1\ICA04-Rock_Paper_Scissors-TaylorHostin.runtimeconfig.dev.json
+C:\Users\thost\source\repos\ICA04-Rock_Paper_Scissors-TaylorHostin\ICA04-Rock_Paper_Scissors-TaylorHostin\bin\Debug\netcoreapp3.1\ICA04-Rock_Paper_Scissors-TaylorHostin.dll
+C:\Users\thost\source\repos\ICA04-Rock_Paper_Scissors-TaylorHostin\ICA04-Rock_Paper_Scissors-TaylorHostin\bin\Debug\netcoreapp3.1\ICA04-Rock_Paper_Scissors-TaylorHostin.pdb
+C:\Users\thost\source\repos\ICA04-Rock_Paper_Scissors-TaylorHostin\ICA04-Rock_Paper_Scissors-TaylorHostin\obj\Debug\netcoreapp3.1\ICA04-Rock_Paper_Scissors-TaylorHostin.dll
+C:\Users\thost\source\repos\ICA04-Rock_Paper_Scissors-TaylorHostin\ICA04-Rock_Paper_Scissors-TaylorHostin\obj\Debug\netcoreapp3.1\ICA04-Rock_Paper_Scissors-TaylorHostin.pdb
+C:\Users\thost\source\repos\ICA04-Rock_Paper_Scissors-TaylorHostin\ICA04-Rock_Paper_Scissors-TaylorHostin\obj\Debug\netcoreapp3.1\ICA04-Rock_Paper_Scissors-TaylorHostin.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\thost\source\repos\LAB 1  - Cell Phone Data Cost Calc\LAB 1  - Cell Phone Data Cost Calc\obj\Debug\netcoreapp3.1\LAB 1  - Cell Phone Data Cost Calc.csprojAssemblyReference.cache
+C:\Users\thost\source\repos\LAB 1  - Cell Phone Data Cost Calc\LAB 1  - Cell Phone Data Cost Calc\obj\Debug\netcoreapp3.1\LAB 1  - Cell Phone Data Cost Calc.AssemblyInfoInputs.cache
+C:\Users\thost\source\repos\LAB 1  - Cell Phone Data Cost Calc\LAB 1  - Cell Phone Data Cost Calc\obj\Debug\netcoreapp3.1\LAB 1  - Cell Phone Data Cost Calc.AssemblyInfo.cs
+C:\Users\thost\source\repos\LAB 1  - Cell Phone Data Cost Calc\LAB 1  - Cell Phone Data Cost Calc\obj\Debug\netcoreapp3.1\LAB 1  - Cell Phone Data Cost Calc.csproj.CoreCompileInputs.cache
+C:\Users\thost\source\repos\LAB 1  - Cell Phone Data Cost Calc\LAB 1  - Cell Phone Data Cost Calc\bin\Debug\netcoreapp3.1\LAB 1  - Cell Phone Data Cost Calc.exe
+C:\Users\thost\source\repos\LAB 1  - Cell Phone Data Cost Calc\LAB 1  - Cell Phone Data Cost Calc\bin\Debug\netcoreapp3.1\LAB 1  - Cell Phone Data Cost Calc.deps.json
+C:\Users\thost\source\repos\LAB 1  - Cell Phone Data Cost Calc\LAB 1  - Cell Phone Data Cost Calc\bin\Debug\netcoreapp3.1\LAB 1  - Cell Phone Data Cost Calc.runtimeconfig.json
+C:\Users\thost\source\repos\LAB 1  - Cell Phone Data Cost Calc\LAB 1  - Cell Phone Data Cost Calc\bin\Debug\netcoreapp3.1\LAB 1  - Cell Phone Data Cost Calc.runtimeconfig.dev.json
+C:\Users\thost\source\repos\LAB 1  - Cell Phone Data Cost Calc\LAB 1  - Cell Phone Data Cost Calc\bin\Debug\netcoreapp3.1\LAB 1  - Cell Phone Data Cost Calc.dll
+C:\Users\thost\source\repos\LAB 1  - Cell Phone Data Cost Calc\LAB 1  - Cell Phone Data Cost Calc\bin\Debug\netcoreapp3.1\LAB 1  - Cell Phone Data Cost Calc.pdb
+C:\Users\thost\source\repos\LAB 1  - Cell Phone Data Cost Calc\LAB 1  - Cell Phone Data Cost Calc\obj\Debug\netcoreapp3.1\LAB 1  - Cell Phone Data Cost Calc.dll
+C:\Users\thost\source\repos\LAB 1  - Cell Phone Data Cost Calc\LAB 1  - Cell Phone Data Cost Calc\obj\Debug\netcoreapp3.1\LAB 1  - Cell Phone Data Cost Calc.pdb
+C:\Users\thost\source\repos\LAB 1  - Cell Phone Data Cost Calc\LAB 1  - Cell Phone Data Cost Calc\obj\Debug\netcoreapp3.1\LAB 1  - Cell Phone Data Cost Calc.genruntimeconfig.cache

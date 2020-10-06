@@ -1,0 +1,61 @@
+﻿using System;
+using System.Runtime.InteropServices;
+
+namespace ICA03_Circ_Sphere_Assignment_Taylor_Hostin
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double rad, a, v;
+            string calcType, area, volume;
+
+            Console.CursorLeft = 40;
+            Console.WriteLine("Taylor Hostin Assignment 3");
+
+            Console.Write("\nEnter the radius of a circle or a sphere: ");
+            rad = double.Parse(Console.ReadLine());
+            // Display an error message if user inputs a negative value using if, else strategy.
+            if (rad < 0)
+            {
+                Console.Write("\nYou have entered an invalid radius value. The program will exit.\n\nPress any key to exit: ");
+            }
+            else
+            {
+                v = (4 / 3) * Math.PI * Math.Pow(rad, 3);
+                a = Math.PI * Math.Pow(rad, 2);
+                Console.Write("Please enter the desired calculation ('area' or 'volume'): ");
+                calcType = Console.ReadLine();
+
+                if (calcType == "area")
+                {
+                    Console.Write($"\nThe area of a circle with a radius of {rad} cm is {a} square cm.");
+                }
+                else
+                {
+                    Console.WriteLine("\nYou have entered an invalid calculation. The program will exit.\n\nPress any key to exit: ");
+                }
+                if (calcType == "volume")
+                {
+                    Console.Write($"\nThe volume of a sphere with a radius of {rad} cm is {v} cubic cm.");
+                }
+                else
+                {
+                    Console.WriteLine("\nYou have entered an invalid calculation. The program will exit.\n\nPress any key to exit: ");
+                }
+                Console.ReadLine();
+            }
+
+
+
+
+
+            }         
+
+            
+           
+            
+        }
+    }
+
+ 

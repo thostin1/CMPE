@@ -1,0 +1,12 @@
+C:\Users\thost\source\repos\LAB 1  - Cell Phone Data Cost Calc\LAB 1  - Cell Phone Data Cost Calc\bin\Debug\netcoreapp3.1\Assignment2EnergyDrinkCalculator.exe
+C:\Users\thost\source\repos\LAB 1  - Cell Phone Data Cost Calc\LAB 1  - Cell Phone Data Cost Calc\bin\Debug\netcoreapp3.1\Assignment2EnergyDrinkCalculator.deps.json
+C:\Users\thost\source\repos\LAB 1  - Cell Phone Data Cost Calc\LAB 1  - Cell Phone Data Cost Calc\bin\Debug\netcoreapp3.1\Assignment2EnergyDrinkCalculator.runtimeconfig.json
+C:\Users\thost\source\repos\LAB 1  - Cell Phone Data Cost Calc\LAB 1  - Cell Phone Data Cost Calc\bin\Debug\netcoreapp3.1\Assignment2EnergyDrinkCalculator.runtimeconfig.dev.json
+C:\Users\thost\source\repos\LAB 1  - Cell Phone Data Cost Calc\LAB 1  - Cell Phone Data Cost Calc\bin\Debug\netcoreapp3.1\Assignment2EnergyDrinkCalculator.dll
+C:\Users\thost\source\repos\LAB 1  - Cell Phone Data Cost Calc\LAB 1  - Cell Phone Data Cost Calc\bin\Debug\netcoreapp3.1\Assignment2EnergyDrinkCalculator.pdb
+C:\Users\thost\source\repos\LAB 1  - Cell Phone Data Cost Calc\LAB 1  - Cell Phone Data Cost Calc\obj\Debug\netcoreapp3.1\Assignment2EnergyDrinkCalculator.AssemblyInfoInputs.cache
+C:\Users\thost\source\repos\LAB 1  - Cell Phone Data Cost Calc\LAB 1  - Cell Phone Data Cost Calc\obj\Debug\netcoreapp3.1\Assignment2EnergyDrinkCalculator.AssemblyInfo.cs
+C:\Users\thost\source\repos\LAB 1  - Cell Phone Data Cost Calc\LAB 1  - Cell Phone Data Cost Calc\obj\Debug\netcoreapp3.1\Assignment2EnergyDrinkCalculator.csproj.CoreCompileInputs.cache
+C:\Users\thost\source\repos\LAB 1  - Cell Phone Data Cost Calc\LAB 1  - Cell Phone Data Cost Calc\obj\Debug\netcoreapp3.1\Assignment2EnergyDrinkCalculator.dll
+C:\Users\thost\source\repos\LAB 1  - Cell Phone Data Cost Calc\LAB 1  - Cell Phone Data Cost Calc\obj\Debug\netcoreapp3.1\Assignment2EnergyDrinkCalculator.pdb
+C:\Users\thost\source\repos\LAB 1  - Cell Phone Data Cost Calc\LAB 1  - Cell Phone Data Cost Calc\obj\Debug\netcoreapp3.1\Assignment2EnergyDrinkCalculator.genruntimeconfig.cache

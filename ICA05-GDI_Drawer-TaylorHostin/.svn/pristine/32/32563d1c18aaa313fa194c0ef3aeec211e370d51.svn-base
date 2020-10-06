@@ -1,0 +1,93 @@
+﻿//**************************************************************************************************************************************************
+//Taylor Hostin Assignment 3
+//*************************************************************************************************************************************************
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Drawing;
+using GDIDrawer;
+using System.Drawing.Printing;
+
+namespace ICA05_GDI_Drawer_TaylorHostin
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int circDiam; // Circle diameter 
+            int x; // x-intercept input
+            int y; // y-intercept input
+
+            //Display name and assignment number
+            Console.CursorLeft = 40;
+            Console.WriteLine("Taylor Hostin Assignment 4");
+
+            //Display line for user input of the circle diameter an make it a string
+            Console.Write("Input circle diameter: ");
+            int.TryParse(Console.ReadLine(), out circDiam);
+            
+            //begin if statemnts to check for invalid intput and integers
+            if (circDiam > 0)
+            {
+                //Display x circle statement for user to input upon
+                Console.Write("Input x cirle center:");
+                int.TryParse(Console.ReadLine(), out x);
+                if (x == 0)//check for valid integers for x input
+                {
+                    //Display y circle statement for user to input upon
+                    Console.Write("Input y cirle center:");
+                    int.TryParse(Console.ReadLine(), out y);
+                    if (y == 0)//check for valid integrs for y input
+                    {                                               
+                        //Create a conditional restriction on the size of the circle 
+                        circDiam = (circDiam < 10) ? 10 : circDiam;
+                        circDiam = (circDiam > 100) ? 100 : circDiam;
+
+                        //Create a conditional restriction on where the circle can be placed in the screen along the x-axis
+                        //I made the radius of the circle the closest the midpoint of the circle will get to the edge of the screen
+                        x = (x < (circDiam / 2)) ? (circDiam / 2) : x;
+                        x = (x > (300 - (circDiam / 2))) ? (300 - (circDiam / 2)) : x;
+
+                        //repeat previous command for the y-axis
+                        y = (y < (circDiam / 2)) ? (circDiam / 2) : y;
+                        y = (y > (300 - (circDiam / 2))) ? (300 - (circDiam / 2)) : y;
+
+                        //Create the GDI pop up window including the window size and input the integer variables from the user
+                        CDrawer Canvas = new CDrawer(300, 300);
+                        Canvas.AddCenteredEllipse(x, y, circDiam, circDiam, Color.Red);
+
+                        //Display an exit message
+                        Console.WriteLine("\nPress any key to exit: ");
+                        Console.ReadKey();
+                    }
+                    
+                    //Create error message for the users diameter input incase the input is invalid
+                    else
+                    {
+                        Console.WriteLine("\nInvalid input - integer required\n\nPress any key to exit:");
+                        Console.Read();
+                    }
+
+                }
+                
+                //Error message for invalid input for x intercept
+                else
+                {
+                    Console.WriteLine("\nInvalid input - integer required\n\nPress any key to exit:");
+                    Console.Read();
+                }
+
+            }
+            
+            //Error message for invalid input for y intercept
+            else
+            {
+                Console.WriteLine("\nInvalid input - integer required\n\nPress any key to exit:");
+                Console.Read();
+            }
+
+        }
+    }
+}

@@ -1,0 +1,7 @@
+C:\Users\thost\source\repos\Exersize 2 integer division\Exersize 2 integer division\bin\Debug\Exersize 2 integer division.exe.config
+C:\Users\thost\source\repos\Exersize 2 integer division\Exersize 2 integer division\bin\Debug\Exersize 2 integer division.exe
+C:\Users\thost\source\repos\Exersize 2 integer division\Exersize 2 integer division\bin\Debug\Exersize 2 integer division.pdb
+C:\Users\thost\source\repos\Exersize 2 integer division\Exersize 2 integer division\obj\Debug\Exersize 2 integer division.csprojAssemblyReference.cache
+C:\Users\thost\source\repos\Exersize 2 integer division\Exersize 2 integer division\obj\Debug\Exersize 2 integer division.csproj.CoreCompileInputs.cache
+C:\Users\thost\source\repos\Exersize 2 integer division\Exersize 2 integer division\obj\Debug\Exersize 2 integer division.exe
+C:\Users\thost\source\repos\Exersize 2 integer division\Exersize 2 integer division\obj\Debug\Exersize 2 integer division.pdb

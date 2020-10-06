@@ -1,0 +1,13 @@
+C:\Users\thost\source\repos\Exercise 3 Sot Distance\Exercise 3 Sot Distance\bin\Debug\netcoreapp3.1\Exercise 3 Sot Distance.exe
+C:\Users\thost\source\repos\Exercise 3 Sot Distance\Exercise 3 Sot Distance\bin\Debug\netcoreapp3.1\Exercise 3 Sot Distance.deps.json
+C:\Users\thost\source\repos\Exercise 3 Sot Distance\Exercise 3 Sot Distance\bin\Debug\netcoreapp3.1\Exercise 3 Sot Distance.runtimeconfig.json
+C:\Users\thost\source\repos\Exercise 3 Sot Distance\Exercise 3 Sot Distance\bin\Debug\netcoreapp3.1\Exercise 3 Sot Distance.runtimeconfig.dev.json
+C:\Users\thost\source\repos\Exercise 3 Sot Distance\Exercise 3 Sot Distance\bin\Debug\netcoreapp3.1\Exercise 3 Sot Distance.dll
+C:\Users\thost\source\repos\Exercise 3 Sot Distance\Exercise 3 Sot Distance\bin\Debug\netcoreapp3.1\Exercise 3 Sot Distance.pdb
+C:\Users\thost\source\repos\Exercise 3 Sot Distance\Exercise 3 Sot Distance\obj\Debug\netcoreapp3.1\Exercise 3 Sot Distance.csprojAssemblyReference.cache
+C:\Users\thost\source\repos\Exercise 3 Sot Distance\Exercise 3 Sot Distance\obj\Debug\netcoreapp3.1\Exercise 3 Sot Distance.AssemblyInfoInputs.cache
+C:\Users\thost\source\repos\Exercise 3 Sot Distance\Exercise 3 Sot Distance\obj\Debug\netcoreapp3.1\Exercise 3 Sot Distance.AssemblyInfo.cs
+C:\Users\thost\source\repos\Exercise 3 Sot Distance\Exercise 3 Sot Distance\obj\Debug\netcoreapp3.1\Exercise 3 Sot Distance.csproj.CoreCompileInputs.cache
+C:\Users\thost\source\repos\Exercise 3 Sot Distance\Exercise 3 Sot Distance\obj\Debug\netcoreapp3.1\Exercise 3 Sot Distance.dll
+C:\Users\thost\source\repos\Exercise 3 Sot Distance\Exercise 3 Sot Distance\obj\Debug\netcoreapp3.1\Exercise 3 Sot Distance.pdb
+C:\Users\thost\source\repos\Exercise 3 Sot Distance\Exercise 3 Sot Distance\obj\Debug\netcoreapp3.1\Exercise 3 Sot Distance.genruntimeconfig.cache

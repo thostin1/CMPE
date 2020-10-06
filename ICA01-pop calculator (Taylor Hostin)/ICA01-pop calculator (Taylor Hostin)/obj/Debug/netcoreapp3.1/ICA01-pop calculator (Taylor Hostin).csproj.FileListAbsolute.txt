@@ -1,0 +1,13 @@
+C:\Users\thost\source\repos\ICA01-pop calculator (Taylor Hostin)\ICA01-pop calculator (Taylor Hostin)\bin\Debug\netcoreapp3.1\ICA01-pop calculator (Taylor Hostin).exe
+C:\Users\thost\source\repos\ICA01-pop calculator (Taylor Hostin)\ICA01-pop calculator (Taylor Hostin)\bin\Debug\netcoreapp3.1\ICA01-pop calculator (Taylor Hostin).deps.json
+C:\Users\thost\source\repos\ICA01-pop calculator (Taylor Hostin)\ICA01-pop calculator (Taylor Hostin)\bin\Debug\netcoreapp3.1\ICA01-pop calculator (Taylor Hostin).runtimeconfig.json
+C:\Users\thost\source\repos\ICA01-pop calculator (Taylor Hostin)\ICA01-pop calculator (Taylor Hostin)\bin\Debug\netcoreapp3.1\ICA01-pop calculator (Taylor Hostin).runtimeconfig.dev.json
+C:\Users\thost\source\repos\ICA01-pop calculator (Taylor Hostin)\ICA01-pop calculator (Taylor Hostin)\bin\Debug\netcoreapp3.1\ICA01-pop calculator (Taylor Hostin).dll
+C:\Users\thost\source\repos\ICA01-pop calculator (Taylor Hostin)\ICA01-pop calculator (Taylor Hostin)\bin\Debug\netcoreapp3.1\ICA01-pop calculator (Taylor Hostin).pdb
+C:\Users\thost\source\repos\ICA01-pop calculator (Taylor Hostin)\ICA01-pop calculator (Taylor Hostin)\obj\Debug\netcoreapp3.1\ICA01-pop calculator (Taylor Hostin).csprojAssemblyReference.cache
+C:\Users\thost\source\repos\ICA01-pop calculator (Taylor Hostin)\ICA01-pop calculator (Taylor Hostin)\obj\Debug\netcoreapp3.1\ICA01-pop calculator (Taylor Hostin).AssemblyInfoInputs.cache
+C:\Users\thost\source\repos\ICA01-pop calculator (Taylor Hostin)\ICA01-pop calculator (Taylor Hostin)\obj\Debug\netcoreapp3.1\ICA01-pop calculator (Taylor Hostin).AssemblyInfo.cs
+C:\Users\thost\source\repos\ICA01-pop calculator (Taylor Hostin)\ICA01-pop calculator (Taylor Hostin)\obj\Debug\netcoreapp3.1\ICA01-pop calculator (Taylor Hostin).csproj.CoreCompileInputs.cache
+C:\Users\thost\source\repos\ICA01-pop calculator (Taylor Hostin)\ICA01-pop calculator (Taylor Hostin)\obj\Debug\netcoreapp3.1\ICA01-pop calculator (Taylor Hostin).dll
+C:\Users\thost\source\repos\ICA01-pop calculator (Taylor Hostin)\ICA01-pop calculator (Taylor Hostin)\obj\Debug\netcoreapp3.1\ICA01-pop calculator (Taylor Hostin).pdb
+C:\Users\thost\source\repos\ICA01-pop calculator (Taylor Hostin)\ICA01-pop calculator (Taylor Hostin)\obj\Debug\netcoreapp3.1\ICA01-pop calculator (Taylor Hostin).genruntimeconfig.cache

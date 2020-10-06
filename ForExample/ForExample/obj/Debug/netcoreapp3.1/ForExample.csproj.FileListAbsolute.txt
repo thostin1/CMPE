@@ -1,0 +1,13 @@
+C:\Users\thost\source\repos\ForExample\ForExample\bin\Debug\netcoreapp3.1\ForExample.exe
+C:\Users\thost\source\repos\ForExample\ForExample\bin\Debug\netcoreapp3.1\ForExample.deps.json
+C:\Users\thost\source\repos\ForExample\ForExample\bin\Debug\netcoreapp3.1\ForExample.runtimeconfig.json
+C:\Users\thost\source\repos\ForExample\ForExample\bin\Debug\netcoreapp3.1\ForExample.runtimeconfig.dev.json
+C:\Users\thost\source\repos\ForExample\ForExample\bin\Debug\netcoreapp3.1\ForExample.dll
+C:\Users\thost\source\repos\ForExample\ForExample\bin\Debug\netcoreapp3.1\ForExample.pdb
+C:\Users\thost\source\repos\ForExample\ForExample\obj\Debug\netcoreapp3.1\ForExample.csprojAssemblyReference.cache
+C:\Users\thost\source\repos\ForExample\ForExample\obj\Debug\netcoreapp3.1\ForExample.AssemblyInfoInputs.cache
+C:\Users\thost\source\repos\ForExample\ForExample\obj\Debug\netcoreapp3.1\ForExample.AssemblyInfo.cs
+C:\Users\thost\source\repos\ForExample\ForExample\obj\Debug\netcoreapp3.1\ForExample.csproj.CoreCompileInputs.cache
+C:\Users\thost\source\repos\ForExample\ForExample\obj\Debug\netcoreapp3.1\ForExample.dll
+C:\Users\thost\source\repos\ForExample\ForExample\obj\Debug\netcoreapp3.1\ForExample.pdb
+C:\Users\thost\source\repos\ForExample\ForExample\obj\Debug\netcoreapp3.1\ForExample.genruntimeconfig.cache

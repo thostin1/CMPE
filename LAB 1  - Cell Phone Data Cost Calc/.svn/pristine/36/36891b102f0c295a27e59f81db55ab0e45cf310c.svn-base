@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace LAB_1____Cell_Phone_Data_Cost_Calc
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}

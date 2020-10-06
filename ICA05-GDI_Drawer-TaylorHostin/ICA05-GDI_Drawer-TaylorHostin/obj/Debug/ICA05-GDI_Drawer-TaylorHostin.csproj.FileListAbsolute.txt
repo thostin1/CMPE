@@ -1,0 +1,9 @@
+C:\Users\thost\source\repos\ICA05-GDI_Drawer-TaylorHostin\ICA05-GDI_Drawer-TaylorHostin\bin\Debug\ICA05-GDI_Drawer-TaylorHostin.exe.config
+C:\Users\thost\source\repos\ICA05-GDI_Drawer-TaylorHostin\ICA05-GDI_Drawer-TaylorHostin\bin\Debug\ICA05-GDI_Drawer-TaylorHostin.exe
+C:\Users\thost\source\repos\ICA05-GDI_Drawer-TaylorHostin\ICA05-GDI_Drawer-TaylorHostin\bin\Debug\ICA05-GDI_Drawer-TaylorHostin.pdb
+C:\Users\thost\source\repos\ICA05-GDI_Drawer-TaylorHostin\ICA05-GDI_Drawer-TaylorHostin\bin\Debug\GDIDrawer.dll
+C:\Users\thost\source\repos\ICA05-GDI_Drawer-TaylorHostin\ICA05-GDI_Drawer-TaylorHostin\obj\Debug\ICA05-GDI_Drawer-TaylorHostin.csprojAssemblyReference.cache
+C:\Users\thost\source\repos\ICA05-GDI_Drawer-TaylorHostin\ICA05-GDI_Drawer-TaylorHostin\obj\Debug\ICA05-GDI_Drawer-TaylorHostin.csproj.CoreCompileInputs.cache
+C:\Users\thost\source\repos\ICA05-GDI_Drawer-TaylorHostin\ICA05-GDI_Drawer-TaylorHostin\obj\Debug\ICA05-GDI_Drawer-TaylorHostin.csproj.CopyComplete
+C:\Users\thost\source\repos\ICA05-GDI_Drawer-TaylorHostin\ICA05-GDI_Drawer-TaylorHostin\obj\Debug\ICA05-GDI_Drawer-TaylorHostin.exe
+C:\Users\thost\source\repos\ICA05-GDI_Drawer-TaylorHostin\ICA05-GDI_Drawer-TaylorHostin\obj\Debug\ICA05-GDI_Drawer-TaylorHostin.pdb

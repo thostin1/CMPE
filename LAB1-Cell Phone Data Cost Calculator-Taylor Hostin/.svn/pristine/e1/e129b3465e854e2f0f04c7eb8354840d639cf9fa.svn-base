@@ -1,0 +1,41 @@
+﻿using System;
+using System.Threading;
+
+namespace LAB1_Cell_Phone_Data_Cost_Calculator_Taylor_Hostin
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            long bytes;
+            int numOfGb, numOfMb, NumOfKb, remainForMb, remainForKb, bytesRemain;
+            double costOfGb = 12.00;
+            
+            Console.Title = "Lab 1 - Cell Phone Data Cost Calculator";
+            
+            Console.CursorLeft = 40;
+            Console.Write("Lab 1 - Cell Phone Data Cost Calculator");
+            Console.Write("\n\nEnter the number of bytes used: ");
+            bytes = long.Parse(Console.ReadLine());
+
+            numOfGb = (int)(bytes / 1073741824);
+            remainForMb = (int)(bytes % 1073741824);
+            numOfMb = remainForMb / 1048576;
+            remainForKb = remainForMb % 1048576;
+            NumOfKb = remainForKb / 1024;
+            bytesRemain = remainForKb % 1024;
+
+
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.Write("\nAmount\tUnit\tCost/Unit   Total");
+            Console.ResetColor();
+            Console.Write($"\n{numOfGb}\tGB\t{costOfGb:C2}      {numOfGb * costOfGb:C2}");
+
+
+
+
+            Console.ReadLine();
+
+        }
+    }
+}

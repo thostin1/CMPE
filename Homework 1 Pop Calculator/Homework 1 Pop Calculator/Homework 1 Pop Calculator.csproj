@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Homework_1_Pop_Calculator</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\thost\OneDrive\Documents\CMPE 1300\Homework\Pop Calculator - Taylor Hostin.cs" Link="Pop Calculator - Taylor Hostin.cs" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace ICA03_Circ_Sphere_Assignment_Taylor_Hostin
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}

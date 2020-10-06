@@ -1,0 +1,21 @@
+﻿using System;
+using System.Threading;
+
+namespace LAB1_Cell_Phone_Data_Cost_Calculator_Taylor_Hostin
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            long bytes;
+
+            Console.WriteLine("\t\t\t\t\tLab 1 - Cell Phone Data Cost Calculator");
+            Console.Write("Enter the number of bytes used: ");
+            bytes = long.Parse(Console.ReadLine());
+
+            Console.Write("Amount\t")
+
+
+        }
+    }
+}

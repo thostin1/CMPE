@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ICA04-Rock_Paper_Scissors-TaylorHostin/1.0.0": {
+        "runtime": {
+          "ICA04-Rock_Paper_Scissors-TaylorHostin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ICA04-Rock_Paper_Scissors-TaylorHostin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

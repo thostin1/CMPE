@@ -1,0 +1,13 @@
+C:\Users\thost\source\repos\Homework 1 Pop Calculator\Homework 1 Pop Calculator\bin\Debug\netcoreapp3.1\Homework 1 Pop Calculator.exe
+C:\Users\thost\source\repos\Homework 1 Pop Calculator\Homework 1 Pop Calculator\bin\Debug\netcoreapp3.1\Homework 1 Pop Calculator.deps.json
+C:\Users\thost\source\repos\Homework 1 Pop Calculator\Homework 1 Pop Calculator\bin\Debug\netcoreapp3.1\Homework 1 Pop Calculator.runtimeconfig.json
+C:\Users\thost\source\repos\Homework 1 Pop Calculator\Homework 1 Pop Calculator\bin\Debug\netcoreapp3.1\Homework 1 Pop Calculator.runtimeconfig.dev.json
+C:\Users\thost\source\repos\Homework 1 Pop Calculator\Homework 1 Pop Calculator\bin\Debug\netcoreapp3.1\Homework 1 Pop Calculator.dll
+C:\Users\thost\source\repos\Homework 1 Pop Calculator\Homework 1 Pop Calculator\bin\Debug\netcoreapp3.1\Homework 1 Pop Calculator.pdb
+C:\Users\thost\source\repos\Homework 1 Pop Calculator\Homework 1 Pop Calculator\obj\Debug\netcoreapp3.1\Homework 1 Pop Calculator.csprojAssemblyReference.cache
+C:\Users\thost\source\repos\Homework 1 Pop Calculator\Homework 1 Pop Calculator\obj\Debug\netcoreapp3.1\Homework 1 Pop Calculator.AssemblyInfoInputs.cache
+C:\Users\thost\source\repos\Homework 1 Pop Calculator\Homework 1 Pop Calculator\obj\Debug\netcoreapp3.1\Homework 1 Pop Calculator.AssemblyInfo.cs
+C:\Users\thost\source\repos\Homework 1 Pop Calculator\Homework 1 Pop Calculator\obj\Debug\netcoreapp3.1\Homework 1 Pop Calculator.csproj.CoreCompileInputs.cache
+C:\Users\thost\source\repos\Homework 1 Pop Calculator\Homework 1 Pop Calculator\obj\Debug\netcoreapp3.1\Homework 1 Pop Calculator.dll
+C:\Users\thost\source\repos\Homework 1 Pop Calculator\Homework 1 Pop Calculator\obj\Debug\netcoreapp3.1\Homework 1 Pop Calculator.pdb
+C:\Users\thost\source\repos\Homework 1 Pop Calculator\Homework 1 Pop Calculator\obj\Debug\netcoreapp3.1\Homework 1 Pop Calculator.genruntimeconfig.cache

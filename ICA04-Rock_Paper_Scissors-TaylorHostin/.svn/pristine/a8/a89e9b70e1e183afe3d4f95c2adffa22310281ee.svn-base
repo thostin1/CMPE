@@ -1,0 +1,56 @@
+﻿//**************************************************************************************************************************************************************
+//Taylor Hostin Assignment 4
+//**************************************************************************************************************************************************************
+using System;
+using System.Runtime.CompilerServices;
+
+namespace ICA04_Rock_Paper_Scissors_TaylorHostin
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            
+            string compSelection;
+            string userSelection;
+            int randomNumber;
+            Random generator = new Random();
+
+            Console.WriteLine("Taylor Hostin Assigment 4");
+            Console.WriteLine("\nPaper\nRock\nScissors");
+            Console.Write("Your selection: ");
+            userSelection = Console.ReadLine();
+
+            randomNumber = generator.Next(1, 4);
+            switch (randomNumber)
+            {
+                case 1:
+                    break;
+                case 2:
+                    break;
+                case 3:
+                    break;
+            }
+
+            switch (userSelection)
+            {
+                case "Rock":
+                    Console.WriteLine("");
+                    break;
+                case "Paper":
+                    Console.WriteLine();
+                    break;
+                case "Scissors":
+                    Console.WriteLine();
+                    break;
+            }
+
+           
+
+
+
+            
+        }
+                    
+    }
+}

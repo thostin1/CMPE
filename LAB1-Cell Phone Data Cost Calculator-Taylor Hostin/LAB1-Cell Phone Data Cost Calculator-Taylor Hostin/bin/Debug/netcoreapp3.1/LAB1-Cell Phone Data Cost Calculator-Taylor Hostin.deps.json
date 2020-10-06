@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LAB1-Cell Phone Data Cost Calculator-Taylor Hostin/1.0.0": {
+        "runtime": {
+          "LAB1-Cell Phone Data Cost Calculator-Taylor Hostin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LAB1-Cell Phone Data Cost Calculator-Taylor Hostin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
