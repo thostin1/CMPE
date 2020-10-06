@@ -70,8 +70,8 @@ namespace ICA06_GDIDrawer_cont._TaylorHostin
                     count = count + 1; 
                     
                     //The random number generator will pick x and y coordinates within the window size
-                    yNum = randomNumber.Next(0, 601);
-                    xNum = randomNumber.Next(0, 801);
+                    yNum = randomNumber.Next(0, 600);
+                    xNum = randomNumber.Next(0, 800);
 
                     //Conditional operator to keep the x coordiante from putting the squares outside the window
                     xNum = (xNum > (800 - (squareSize))) ? (800 - (squareSize)) : xNum;
