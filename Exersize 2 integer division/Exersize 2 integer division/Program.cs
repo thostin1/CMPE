@@ -14,7 +14,7 @@ namespace Exersize_2_integer_division
             int numOf5, numOf20, tixRemain;
             double costOf20, costOf5, costOf1, totalCost;
 
-
+            //3
             Console.WriteLine("Ticket purchase");
 
             Console.Write("\nEnter the number of tickets to purchase: ");
