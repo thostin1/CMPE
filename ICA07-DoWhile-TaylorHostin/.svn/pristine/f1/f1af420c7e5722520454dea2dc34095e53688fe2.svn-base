@@ -1,0 +1,78 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data.SqlTypes;
+using System.Diagnostics.CodeAnalysis;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ICA07_DoWhile_TaylorHostin
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int numGrades;
+            
+            int gInt;
+            double gDec;
+            double sum;
+
+            Console.WriteLine("\t\t\t\t\t\tICA07 Taylor Hostin");
+
+            
+                Console.Write("Enter the number of grades to generate: ");
+                int.TryParse(Console.ReadLine(), out numGrades);
+            
+            do
+            {
+                if (numGrades == 0)
+                {
+                    Console.WriteLine("You have entered an invalid number.");
+                    Console.Write("Enter the number of grades to generate: ");
+                    int.TryParse(Console.ReadLine(), out numGrades);
+                }
+               else if (numGrades > 10)
+               {
+                        Console.WriteLine("You have entered a value that is too high");
+                        Console.Write("Enter the number of grades to generate: ");
+                        int.TryParse(Console.ReadLine(), out numGrades);
+               }
+                else if (numGrades < 5)
+                {
+                        Console.WriteLine("You have enteres a value that is too low.");
+                        Console.Write("Enter the number of grades to generate: ");
+                        int.TryParse(Console.ReadLine(), out numGrades);
+                }
+                    
+                
+            } while ((numGrades == 0 || numGrades > 10 || numGrades < 5));
+            Console.WriteLine("Here are the generated grades...");
+
+            int count = 0;
+            Random randomNumber = new Random();
+
+
+            while (count <= numGrades)
+            {
+                //The user input will be stuck in this loop until the amount is matched by adding one to the square count each loop
+                count = count + 1;
+
+                //The random number generator will pick x and y coordinates within the window size
+                gDec = randomNumber.NextDouble();
+                gInt = randomNumber.Next(0, 100);
+
+                sum = gDec + gInt;
+
+                Console.WriteLine($"{sum:F1} {sum:F1} {sum:F1} {sum:F1} {sum:F1} {sum:F1} {sum:F1} {sum:F1} {sum:F1}");
+
+                Console.ReadLine();
+            }
+            
+            
+                
+
+
+        }
+    }
+}

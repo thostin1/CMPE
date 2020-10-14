@@ -1,0 +1,7 @@
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA07-DoWhile-TaylorHostin\ICA07-DoWhile-TaylorHostin\obj\Debug\ICA07-DoWhile-TaylorHostin.csprojAssemblyReference.cache
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA07-DoWhile-TaylorHostin\ICA07-DoWhile-TaylorHostin\obj\Debug\ICA07-DoWhile-TaylorHostin.csproj.CoreCompileInputs.cache
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA07-DoWhile-TaylorHostin\ICA07-DoWhile-TaylorHostin\bin\Debug\ICA07-DoWhile-TaylorHostin.exe.config
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA07-DoWhile-TaylorHostin\ICA07-DoWhile-TaylorHostin\bin\Debug\ICA07-DoWhile-TaylorHostin.exe
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA07-DoWhile-TaylorHostin\ICA07-DoWhile-TaylorHostin\bin\Debug\ICA07-DoWhile-TaylorHostin.pdb
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA07-DoWhile-TaylorHostin\ICA07-DoWhile-TaylorHostin\obj\Debug\ICA07-DoWhile-TaylorHostin.exe
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA07-DoWhile-TaylorHostin\ICA07-DoWhile-TaylorHostin\obj\Debug\ICA07-DoWhile-TaylorHostin.pdb
