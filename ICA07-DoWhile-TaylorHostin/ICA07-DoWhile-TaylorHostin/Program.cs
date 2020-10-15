@@ -1,4 +1,8 @@
-﻿using System;
+﻿//*****************************************************************************************************************
+// Taylor Hostin Assignment 7
+//*****************************************************************************************************************
+
+using System;
 using System.Collections.Generic;
 using System.Data.SqlTypes;
 using System.Diagnostics.CodeAnalysis;
@@ -23,14 +27,21 @@ namespace ICA07_DoWhile_TaylorHostin
             int failCount = 0;  //the amount of fails variable
             string userSelect;  //user selection to re run the program
 
-            //Display name
-            Console.WriteLine("\t\t\t\t\t\tICA07 Taylor Hostin");
 
-            //Begin full do while for if the user wants to rerun the program         
+            //Begin full do while for if the user wants to rerun the program
             do
             {
+
                 //Clear the console window
                 Console.Clear();
+
+                //Display name
+                Console.WriteLine("\t\t\t\t\t\tICA07 Taylor Hostin");
+
+                    
+            
+            
+                
                 
                 //Display first user input line
                 Console.Write("\nEnter the number of grades to generate: ");
@@ -95,29 +106,32 @@ namespace ICA07_DoWhile_TaylorHostin
                     sum = gDec + gInt;
 
                     //Write a series of grades that will stop when the (numGrades) is satisfied
-                    Console.Write($" {sum:F1} ");
+                    Console.Write($"{sum:F1} ");
 
                     //Create totalSum which begins at 0 and adds 1 until the loop ends providing a total sum for the mean calculation
                     totalSum = totalSum + sum;
 
-                   
+                    //if statement to calculate the amount of fails which will add one everytime there is a grade < 50
                     if (sum < 50) failCount++;
 
 
-
+                //Set the while statement so the count is less than the number of grades selected by the user so the program wont leave the loop until this is satisfied.
                 } while (count < numGrades);
 
-               
+                //Create mean average grade
                 avgGrade = totalSum / numGrades;
 
-                
+                //Display average grade with F1 formatter which will round to one decimal place
                 Console.WriteLine($"\n\nThe average grade was {avgGrade:F1}%");
                 
-                
+                //Display amount of failures
                 Console.WriteLine($"There were {failCount} failures.");
+                
+                //Display option for user to run the program again
                 Console.WriteLine("\nRun the program again? (y/n): ");
                 userSelect = Console.ReadLine();
            
+                //While statement detecting the users selection to re run the program.
             } while (userSelect == "y" ||userSelect == "Y");
             Console.ReadKey();
 

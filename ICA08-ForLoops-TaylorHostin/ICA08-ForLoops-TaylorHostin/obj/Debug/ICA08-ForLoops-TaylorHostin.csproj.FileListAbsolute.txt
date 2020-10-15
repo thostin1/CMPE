@@ -1,0 +1,7 @@
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA08-ForLoops-TaylorHostin\ICA08-ForLoops-TaylorHostin\obj\Debug\ICA08-ForLoops-TaylorHostin.csprojAssemblyReference.cache
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA08-ForLoops-TaylorHostin\ICA08-ForLoops-TaylorHostin\obj\Debug\ICA08-ForLoops-TaylorHostin.csproj.CoreCompileInputs.cache
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA08-ForLoops-TaylorHostin\ICA08-ForLoops-TaylorHostin\bin\Debug\ICA08-ForLoops-TaylorHostin.exe.config
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA08-ForLoops-TaylorHostin\ICA08-ForLoops-TaylorHostin\bin\Debug\ICA08-ForLoops-TaylorHostin.exe
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA08-ForLoops-TaylorHostin\ICA08-ForLoops-TaylorHostin\bin\Debug\ICA08-ForLoops-TaylorHostin.pdb
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA08-ForLoops-TaylorHostin\ICA08-ForLoops-TaylorHostin\obj\Debug\ICA08-ForLoops-TaylorHostin.exe
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA08-ForLoops-TaylorHostin\ICA08-ForLoops-TaylorHostin\obj\Debug\ICA08-ForLoops-TaylorHostin.pdb
