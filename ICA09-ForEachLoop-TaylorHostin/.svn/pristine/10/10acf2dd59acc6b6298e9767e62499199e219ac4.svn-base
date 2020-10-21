@@ -1,0 +1,154 @@
+﻿//*************************************************************************************************************************************
+//Taylor Hostin Assignment 9
+//**************************************************************************************************************************************
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ICA09_ForEachLoop_TaylorHostin
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string userInput;
+            do
+            {
+
+                string passwordInput;
+                int upperCount = 0;
+                int lowerCount = 0;
+                int symCount = 0;
+                int numCount = 0;
+                int spaceCount = 0;
+                int dupliCount = 0;
+                char checkChar = ' ';
+                
+                Console.Clear();
+                Console.WriteLine("\t\t\t\t\t\tTaylor Hostin Assignment 9");
+                Console.WriteLine("\nThe password must be compliant with the following rules:");
+                Console.WriteLine("\nIt must be a minimum of 8 characters in length.");
+                Console.WriteLine("There must be at least one uppercase letter.");
+                Console.WriteLine("There must be at least one lowercase letter.");
+                Console.WriteLine("There must be at least one symbol character");
+                Console.WriteLine("There must not be any space or tab characters in the password.");
+                Console.WriteLine("There must be at least two numbers in the password and they must be different.");
+
+                Console.Write("\nEnter password: ");
+                passwordInput = Console.ReadLine();
+
+               
+
+                foreach (char chLetter in passwordInput)
+                {
+
+                    if ((chLetter >= 'A') && (chLetter <= 'Z'))
+                    {
+
+                        upperCount++;
+
+                    }
+
+                    if ((chLetter >= 'a') && (chLetter <= 'z'))
+                    {
+
+                        lowerCount++;
+                    }
+
+                    if ((chLetter >= '!') && (chLetter <= '/') || (chLetter >= ':') && (chLetter <= '@') || (chLetter >= '[') && (chLetter <= '`') || (chLetter == '~'))
+                    {
+
+                        symCount++;
+
+                    }
+
+                    
+                    if (char.IsWhiteSpace(chLetter))
+                    {
+
+                        spaceCount++;
+                    }                   
+                    
+                    
+                    if ((chLetter >= '0') && (chLetter <= '9'))
+                    {
+                        numCount++;
+                        
+                    }
+              
+                
+
+                    for (var i = 0; i <= passwordInput.Length; i++)
+                    {
+
+                        for (var j = i + 1; j <= passwordInput.Length - 1; j++)
+                        {
+
+                            if (passwordInput[j] == passwordInput[i] && ((passwordInput[j] >= '0') && (passwordInput[j] <= '9')))
+                            {
+                               
+                                dupliCount++;
+                               
+
+                            }
+
+                        }
+
+                    }
+
+                }
+                if ((passwordInput.Length < 8) || (dupliCount > 0) || (lowerCount < 1) || (upperCount < 1) || (symCount < 1) || (numCount < 1) || (spaceCount > 1))
+                {
+
+
+                    if (passwordInput.Length < 8) Console.WriteLine("\nError. Password too short");
+
+                    if ((dupliCount > 0))
+                    {
+                        Console.WriteLine("\nError. password contains duplicate numbers");
+                    }
+
+
+                    if (lowerCount < 1)
+                    {
+                        Console.WriteLine("\nError. Not enough uppercase letters");
+                    }
+
+                    if (upperCount < 1)
+                    {
+                        Console.WriteLine("\nError. Not enough lowercase letters");
+                    }
+
+                    if (symCount < 1)
+                    {
+                        Console.WriteLine("\nError. Not enough symbols");
+                    }
+
+                    if (numCount < 1)
+                    {
+                        Console.WriteLine("\nError. Not enough numbers");
+                    }
+
+                    if (spaceCount > 1)
+                    {
+                        Console.WriteLine("Error. No spaces allowed");
+                    }
+               
+                }
+               else
+                {
+                    Console.WriteLine("");
+                }
+                
+                Console.Write("\nRun program again?(y/n): ");
+                userInput = Console.ReadLine();
+           
+            
+            } while (userInput == "y" || userInput == "Y");
+            
+
+        }
+    }
+}

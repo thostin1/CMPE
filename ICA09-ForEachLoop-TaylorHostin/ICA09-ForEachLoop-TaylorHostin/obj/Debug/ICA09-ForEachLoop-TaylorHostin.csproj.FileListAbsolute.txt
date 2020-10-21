@@ -1,0 +1,7 @@
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA09-ForEachLoop-TaylorHostin\ICA09-ForEachLoop-TaylorHostin\bin\Debug\ICA09-ForEachLoop-TaylorHostin.exe.config
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA09-ForEachLoop-TaylorHostin\ICA09-ForEachLoop-TaylorHostin\bin\Debug\ICA09-ForEachLoop-TaylorHostin.exe
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA09-ForEachLoop-TaylorHostin\ICA09-ForEachLoop-TaylorHostin\bin\Debug\ICA09-ForEachLoop-TaylorHostin.pdb
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA09-ForEachLoop-TaylorHostin\ICA09-ForEachLoop-TaylorHostin\obj\Debug\ICA09-ForEachLoop-TaylorHostin.csprojAssemblyReference.cache
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA09-ForEachLoop-TaylorHostin\ICA09-ForEachLoop-TaylorHostin\obj\Debug\ICA09-ForEachLoop-TaylorHostin.csproj.CoreCompileInputs.cache
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA09-ForEachLoop-TaylorHostin\ICA09-ForEachLoop-TaylorHostin\obj\Debug\ICA09-ForEachLoop-TaylorHostin.exe
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA09-ForEachLoop-TaylorHostin\ICA09-ForEachLoop-TaylorHostin\obj\Debug\ICA09-ForEachLoop-TaylorHostin.pdb
