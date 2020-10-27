@@ -1,0 +1,9 @@
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\LAB02-VirtualPong-TaylorHostin\LAB02-VirtualPong-TaylorHostin\bin\Debug\LAB02-VirtualPong-TaylorHostin.exe.config
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\LAB02-VirtualPong-TaylorHostin\LAB02-VirtualPong-TaylorHostin\bin\Debug\LAB02-VirtualPong-TaylorHostin.exe
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\LAB02-VirtualPong-TaylorHostin\LAB02-VirtualPong-TaylorHostin\bin\Debug\LAB02-VirtualPong-TaylorHostin.pdb
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\LAB02-VirtualPong-TaylorHostin\LAB02-VirtualPong-TaylorHostin\bin\Debug\GDIDrawer.dll
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\LAB02-VirtualPong-TaylorHostin\LAB02-VirtualPong-TaylorHostin\obj\Debug\LAB02-VirtualPong-TaylorHostin.csprojAssemblyReference.cache
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\LAB02-VirtualPong-TaylorHostin\LAB02-VirtualPong-TaylorHostin\obj\Debug\LAB02-VirtualPong-TaylorHostin.csproj.CoreCompileInputs.cache
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\LAB02-VirtualPong-TaylorHostin\LAB02-VirtualPong-TaylorHostin\obj\Debug\LAB02-VirtualPong-TaylorHostin.csproj.CopyComplete
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\LAB02-VirtualPong-TaylorHostin\LAB02-VirtualPong-TaylorHostin\obj\Debug\LAB02-VirtualPong-TaylorHostin.exe
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\LAB02-VirtualPong-TaylorHostin\LAB02-VirtualPong-TaylorHostin\obj\Debug\LAB02-VirtualPong-TaylorHostin.pdb
