@@ -1,0 +1,129 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Drawing;
+using GDIDrawer;
+using System.Runtime.CompilerServices;
+using System.Drawing.Drawing2D;
+using System.Drawing.Printing;
+
+namespace ICA10_Methods_TaylorHostin
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double degToRad;
+            int length;
+            int starSpacing;
+            string userSelect;
+            
+            
+            do
+
+            {
+                CDrawer Canvas = new CDrawer(800, 600);
+                
+                Console.Clear();
+                Canvas.Clear();
+
+                Console.WriteLine("\t\t\t\t\t\tICA10 Taylor Hostin");
+
+                
+               
+
+                length = GetInt("Enter the line length in pixels", 2, 50);
+
+                degToRad = GetDouble("Enter the angle increment in degrees", 2, 25);
+
+                degToRad = Deg2Rad(degToRad);
+
+                starSpacing = GetInt("Enter the spacing for the stars in pixels", 10, 150);
+
+                for (int x = 0; x <= Canvas.ScaledWidth; x += starSpacing)
+                {
+                    for (int y = 0; y <= Canvas.ScaledHeight; y += starSpacing)
+                    {
+                        DrawStar(Canvas, x, y, length, degToRad);
+                        Console.WriteLine("i");
+                        Console.WriteLine(y);
+                    }
+                    Console.WriteLine("x");
+                    Console.WriteLine(x);
+                }
+
+
+                Console.Write("\nRun the program again? (y/n): ");
+                userSelect = Console.ReadLine();
+
+
+            } while (userSelect == "y" || userSelect == "Y");
+        }
+        static private int GetInt(string prompt, int min, int max)
+        {
+            int num;
+
+            Console.Write($"{prompt}: ");
+            int.TryParse(Console.ReadLine(), out num);
+
+            while ((num < min) || (num > max) || (num == 0))
+            {
+                Console.WriteLine($"Invalid: {prompt} Mininum : {min} Maximum : {max}");
+                int.TryParse(Console.ReadLine(), out num);
+
+            }
+
+            return num;
+        }
+
+        static private double GetDouble(string prompt, int min, int max)
+        {
+            double degrees;
+
+            Console.Write($"{prompt}: ");
+            double.TryParse(Console.ReadLine(), out degrees);
+
+
+
+            while ((degrees < min) || (degrees > max) || (degrees == 0))
+            {
+                Console.WriteLine($"Invalid: {prompt} Mininum : {min} Maximum : {max}");
+                double.TryParse(Console.ReadLine(), out degrees);
+
+            }
+
+            return degrees;
+        }
+        static private double Deg2Rad(double convert)
+        {
+
+            return (convert * Math.PI / 180);
+        }
+
+        static private void DrawStar(CDrawer canvas, int x, int y, double length, double angle)
+        {
+            Random rndGen = new Random();
+
+            Point point = new Point();
+            point.X = x;
+            point.Y = y;
+
+
+            for (double i = 0; i < 360; i = i + angle)
+            {
+                
+                canvas.AddLine(point, length, i, Color.FromArgb(rndGen.Next()), 1);
+
+            }
+
+
+
+
+
+        }
+
+
+    }
+}

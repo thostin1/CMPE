@@ -1,0 +1,9 @@
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA10-Methods-TaylorHostin\ICA10-Methods-TaylorHostin\bin\Debug\ICA10-Methods-TaylorHostin.exe.config
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA10-Methods-TaylorHostin\ICA10-Methods-TaylorHostin\bin\Debug\ICA10-Methods-TaylorHostin.exe
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA10-Methods-TaylorHostin\ICA10-Methods-TaylorHostin\bin\Debug\ICA10-Methods-TaylorHostin.pdb
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA10-Methods-TaylorHostin\ICA10-Methods-TaylorHostin\bin\Debug\GDIDrawer.dll
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA10-Methods-TaylorHostin\ICA10-Methods-TaylorHostin\obj\Debug\ICA10-Methods-TaylorHostin.csprojAssemblyReference.cache
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA10-Methods-TaylorHostin\ICA10-Methods-TaylorHostin\obj\Debug\ICA10-Methods-TaylorHostin.csproj.CoreCompileInputs.cache
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA10-Methods-TaylorHostin\ICA10-Methods-TaylorHostin\obj\Debug\ICA10-Methods-TaylorHostin.csproj.CopyComplete
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA10-Methods-TaylorHostin\ICA10-Methods-TaylorHostin\obj\Debug\ICA10-Methods-TaylorHostin.exe
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA10-Methods-TaylorHostin\ICA10-Methods-TaylorHostin\obj\Debug\ICA10-Methods-TaylorHostin.pdb
