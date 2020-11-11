@@ -1,0 +1,7 @@
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA11-Methodsrefandout-TaylorHostin\ICA11-Methodsrefandout-TaylorHostin\obj\Debug\ICA11-Methodsrefandout-TaylorHostin.csprojAssemblyReference.cache
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA11-Methodsrefandout-TaylorHostin\ICA11-Methodsrefandout-TaylorHostin\obj\Debug\ICA11-Methodsrefandout-TaylorHostin.csproj.CoreCompileInputs.cache
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA11-Methodsrefandout-TaylorHostin\ICA11-Methodsrefandout-TaylorHostin\bin\Debug\ICA11-Methodsrefandout-TaylorHostin.exe.config
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA11-Methodsrefandout-TaylorHostin\ICA11-Methodsrefandout-TaylorHostin\bin\Debug\ICA11-Methodsrefandout-TaylorHostin.exe
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA11-Methodsrefandout-TaylorHostin\ICA11-Methodsrefandout-TaylorHostin\bin\Debug\ICA11-Methodsrefandout-TaylorHostin.pdb
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA11-Methodsrefandout-TaylorHostin\ICA11-Methodsrefandout-TaylorHostin\obj\Debug\ICA11-Methodsrefandout-TaylorHostin.exe
+C:\Users\thost\OneDrive\Documents\GitHub\CMPE\ICA11-Methodsrefandout-TaylorHostin\ICA11-Methodsrefandout-TaylorHostin\obj\Debug\ICA11-Methodsrefandout-TaylorHostin.pdb

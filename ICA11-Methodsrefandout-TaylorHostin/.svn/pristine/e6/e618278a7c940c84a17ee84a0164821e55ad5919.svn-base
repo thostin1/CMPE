@@ -1,0 +1,137 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ICA11_Methodsrefandout_TaylorHostin
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int iMinInput;      //track minutes input by user
+            int iSecInput;      //track seconds input by user
+            int iMinTotal = 0;  //total music minutes
+            int iSecTotal = 0;  //total music seconds
+            bool bExit = false; //flag for CD is full
+
+            //repeat until user is done of CD is full
+            do
+            {
+                //get the time for a single track
+                GetTrack(out iMinInput, out iSecInput);
+
+                //add the track to the current music total time
+                AddTrack(iMinInput, iSecInput, ref iMinTotal, ref iSecTotal);
+
+                // display the total time
+                DisplayTotal(iMinTotal, iSecTotal);
+
+                // check for the CD being full at about 76 minutes
+                if (SecTotal(iMinTotal, iSecTotal) > 76 * 60)
+                {
+                    Console.WriteLine("The CD is full, exiting...");
+                    bExit = true;
+                }
+            } while ((YesNo("Add another track?") == "yes") && !bExit);
+        }
+
+        static private void GetTrack(out int minutes, out int seconds)
+        {
+            Console.Write("\nEnter track minutes: ");
+            
+
+            while ((!int.TryParse(Console.ReadLine(), out minutes)) || (minutes > 60))
+            {
+               
+                if(minutes > 60)
+                {
+                    Console.WriteLine("\nThat value was out of range.");
+                }
+                
+                else
+                {
+                    Console.WriteLine("\nAn invalid number was entered, please try again.");
+                }
+                    
+                    Console.Write("\nEnter track minutes: ");
+                
+            }
+            Console.Write("\nEnter track seconds: ");
+           
+
+            while ((!int.TryParse(Console.ReadLine(), out seconds)) || (seconds > 60))
+            {
+                if (minutes > 60)
+                {
+                    Console.WriteLine("\nThat value was out of range.");
+                }
+
+                else
+                {
+                    Console.WriteLine("\nAn invalid number was entered, please try again.");
+                }
+
+                Console.Write("\nEnter track seconds: ");
+
+            }
+
+
+        }
+
+        static private void AddTrack(int iMinInput, int iSecInput, ref int iMinTotal, ref int iSecTotal)
+        {
+           
+            iMinTotal = iMinTotal + iMinInput;
+            iSecTotal = iSecTotal + iSecInput;
+            
+            while (iSecTotal >= 60)
+            {
+                iMinTotal++;
+                iSecTotal = iSecTotal - 60;
+            }
+        }
+
+        static private void DisplayTotal(int iMinTotal, int iSecTotal)
+        {
+                       
+               Console.WriteLine($"\nCurrent total = {iMinTotal:D2}:{iSecTotal:D2} ");
+            
+        }
+
+        static private int SecTotal(int iMinTotal, int iSecTotal)
+        {
+            int minToSec;
+
+            minToSec = iMinTotal * 60 + iSecTotal;
+
+            return minToSec;
+        }
+
+        static private string YesNo(string prompt)
+        {
+            string userInput;
+            
+            Console.Write(prompt );
+            userInput = Console.ReadLine();
+            
+            
+            while (userInput.ToLower() != "yes" && userInput.ToLower()!="no")
+            {
+                Console.WriteLine($"Invalid selection");
+                Console.Write(prompt);
+                userInput = Console.ReadLine();
+            }
+            
+            if (userInput.ToLower() == "no")
+            {
+                Console.WriteLine("Bye!");
+                Console.ReadKey();
+            }
+            
+            return userInput;
+            
+        }
+    }
+}
