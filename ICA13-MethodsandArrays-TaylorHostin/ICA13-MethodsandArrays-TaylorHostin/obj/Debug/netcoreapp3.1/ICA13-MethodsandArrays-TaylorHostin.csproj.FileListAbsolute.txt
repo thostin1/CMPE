@@ -1,0 +1,13 @@
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA13-MethodsandArrays-TaylorHostin\ICA13-MethodsandArrays-TaylorHostin\bin\Debug\netcoreapp3.1\ICA13-MethodsandArrays-TaylorHostin.exe
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA13-MethodsandArrays-TaylorHostin\ICA13-MethodsandArrays-TaylorHostin\bin\Debug\netcoreapp3.1\ICA13-MethodsandArrays-TaylorHostin.deps.json
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA13-MethodsandArrays-TaylorHostin\ICA13-MethodsandArrays-TaylorHostin\bin\Debug\netcoreapp3.1\ICA13-MethodsandArrays-TaylorHostin.runtimeconfig.json
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA13-MethodsandArrays-TaylorHostin\ICA13-MethodsandArrays-TaylorHostin\bin\Debug\netcoreapp3.1\ICA13-MethodsandArrays-TaylorHostin.runtimeconfig.dev.json
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA13-MethodsandArrays-TaylorHostin\ICA13-MethodsandArrays-TaylorHostin\bin\Debug\netcoreapp3.1\ICA13-MethodsandArrays-TaylorHostin.dll
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA13-MethodsandArrays-TaylorHostin\ICA13-MethodsandArrays-TaylorHostin\bin\Debug\netcoreapp3.1\ICA13-MethodsandArrays-TaylorHostin.pdb
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA13-MethodsandArrays-TaylorHostin\ICA13-MethodsandArrays-TaylorHostin\obj\Debug\netcoreapp3.1\ICA13-MethodsandArrays-TaylorHostin.csprojAssemblyReference.cache
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA13-MethodsandArrays-TaylorHostin\ICA13-MethodsandArrays-TaylorHostin\obj\Debug\netcoreapp3.1\ICA13-MethodsandArrays-TaylorHostin.AssemblyInfoInputs.cache
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA13-MethodsandArrays-TaylorHostin\ICA13-MethodsandArrays-TaylorHostin\obj\Debug\netcoreapp3.1\ICA13-MethodsandArrays-TaylorHostin.AssemblyInfo.cs
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA13-MethodsandArrays-TaylorHostin\ICA13-MethodsandArrays-TaylorHostin\obj\Debug\netcoreapp3.1\ICA13-MethodsandArrays-TaylorHostin.csproj.CoreCompileInputs.cache
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA13-MethodsandArrays-TaylorHostin\ICA13-MethodsandArrays-TaylorHostin\obj\Debug\netcoreapp3.1\ICA13-MethodsandArrays-TaylorHostin.dll
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA13-MethodsandArrays-TaylorHostin\ICA13-MethodsandArrays-TaylorHostin\obj\Debug\netcoreapp3.1\ICA13-MethodsandArrays-TaylorHostin.pdb
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA13-MethodsandArrays-TaylorHostin\ICA13-MethodsandArrays-TaylorHostin\obj\Debug\netcoreapp3.1\ICA13-MethodsandArrays-TaylorHostin.genruntimeconfig.cache
