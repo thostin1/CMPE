@@ -1,0 +1,211 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.IO;
+using System.Drawing;
+using GDIDrawer;
+
+namespace LAB4_Hangman_TaylorHostin
+{
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+
+            string word;
+
+            Console.WriteLine("\t\t\t\t\t\tTaylor Hostin Lab 4");
+
+            word = GetWord();
+
+            GetGuess(word);
+            
+        }
+        static private string GetWord()
+        {
+            string word;
+
+            int lineCount = File.ReadAllLines(@"C:\Users\T-Raw\hangmanwords.txt").Length;
+            Random rnd = new Random();
+            int randomLineNum = rnd.Next(lineCount);
+            int indicator = 0;
+
+            using (var reader = File.OpenText(@"C:\Users\T-Raw\hangmanwords.txt"))
+            {
+                while (reader.ReadLine() != null)
+                {
+                    if (indicator == randomLineNum)
+                    {
+                        word = reader.ReadLine();
+
+                        return word;
+                    }
+                    indicator++;
+                    
+                }
+                return "empty";
+            }
+
+            
+        }
+        static private void GetGuess(string word2)
+        {
+            
+            int count = 0;
+            int count2 = 0;
+
+            CDrawer Canvas = new CDrawer();
+
+            string wrongGuesses = "";
+            char[] guessed = new char[26];
+            char[] testword = word2.ToCharArray();
+            char[] word = word2.ToCharArray();
+            char[] copy = word;
+           
+            char guess;
+
+            for (int i = 0; i < word.Length; i++)
+            {
+                testword[i] = '-';
+            }
+
+            int index = 0;
+
+            Console.WriteLine(testword);
+
+            for (int i = 0; i < 10; i++)
+            {
+
+                Console.Write("Please enter a letter to guess: ");
+                guess = char.Parse(Console.ReadLine());
+
+                bool right = false;
+
+                for (int j = 0; j < copy.Length; j++)
+                {
+
+                    if (copy[j] == guess)
+                    {
+                      
+                        Console.WriteLine("Your guess is correct.");
+                        testword[j] = guess;
+                        guessed[index] = guess;
+                        index++;
+                        right = true;
+                        
+                        
+                        count++;
+                        if (count>1)
+                        {
+                            Canvas.Clear();
+                        }
+                        
+
+                        Point point = new Point();
+
+                        point.X = 300;
+                        point.Y = 450;
+
+                        Canvas.AddLine(point, 300, 0, Color.Turquoise, 4);
+
+                        Point point2 = new Point();
+
+                        point2.X = 300;
+                        point2.Y = 175;
+
+                        Canvas.AddLine(point2, 150, Math.PI / 2, Color.Turquoise, 4);
+
+                        Point point3 = new Point();
+
+                        point3.X = 225;
+                        point3.Y = 450;
+
+                        Canvas.AddLine(point3, 150, Math.PI / 2, Color.Turquoise, 4);
+
+                        Point point4 = new Point();
+
+                        point4.X = 380;
+                        point4.Y = 208;
+
+                        Canvas.AddLine(point4, 30, 0, Color.Brown, 2);
+
+                        string charStr = new string(testword);
+
+                        Canvas.AddText(charStr, 30, 350, 500, 200, 50, Color.Green);
+                      
+                    }
+                }
+
+                if (right != true)
+                {
+                    Console.WriteLine("Your guess is incorrect.");
+                    
+                    wrongGuesses = wrongGuesses + guess;
+
+                    Canvas.AddText(wrongGuesses, 20, 300, 100, 200, 50, Color.Red);
+                    count2++;
+                    if (count2 > 1)
+                    {
+                        Canvas.Clear();
+                    }
+
+                }
+                else
+                {
+                    right = false;
+                }
+
+                
+
+                Console.WriteLine(wrongGuesses);
+                Console.WriteLine(testword);
+
+
+            }
+            
+
+
+            Console.ReadLine();
+
+        }
+       
+
+        static private void DrawScreen(out CDrawer Canvas)            
+        {
+            Canvas = new CDrawer();
+            
+            Point point = new Point();
+
+            point.X = 300;
+            point.Y = 450;
+
+            Canvas.AddLine(point, 300, 0, Color.Turquoise, 4);
+            
+            Point point2 = new Point();
+
+            point2.X = 300;
+            point2.Y = 175;
+            
+            Canvas.AddLine(point2, 150, Math.PI/2, Color.Turquoise, 4);
+            
+            Point point3 = new Point();
+
+            point3.X = 225;
+            point3.Y = 450;
+
+            Canvas.AddLine(point3, 150, Math.PI/2, Color.Turquoise, 4);
+
+            Point point4 = new Point();
+
+            point4.X = 380;
+            point4.Y = 208;
+            
+            Canvas.AddLine(point4, 30, 0, Color.Brown, 2);
+
+            Console.ReadLine();
+        }
+
+    }
+}

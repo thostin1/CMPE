@@ -1,0 +1,13 @@
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA15-StudentRecord-TaylorHostin\ICA15-StudentRecord-TaylorHostin\bin\Debug\netcoreapp3.1\ICA15-StudentRecord-TaylorHostin.exe
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA15-StudentRecord-TaylorHostin\ICA15-StudentRecord-TaylorHostin\bin\Debug\netcoreapp3.1\ICA15-StudentRecord-TaylorHostin.deps.json
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA15-StudentRecord-TaylorHostin\ICA15-StudentRecord-TaylorHostin\bin\Debug\netcoreapp3.1\ICA15-StudentRecord-TaylorHostin.runtimeconfig.json
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA15-StudentRecord-TaylorHostin\ICA15-StudentRecord-TaylorHostin\bin\Debug\netcoreapp3.1\ICA15-StudentRecord-TaylorHostin.runtimeconfig.dev.json
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA15-StudentRecord-TaylorHostin\ICA15-StudentRecord-TaylorHostin\bin\Debug\netcoreapp3.1\ICA15-StudentRecord-TaylorHostin.dll
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA15-StudentRecord-TaylorHostin\ICA15-StudentRecord-TaylorHostin\bin\Debug\netcoreapp3.1\ICA15-StudentRecord-TaylorHostin.pdb
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA15-StudentRecord-TaylorHostin\ICA15-StudentRecord-TaylorHostin\obj\Debug\netcoreapp3.1\ICA15-StudentRecord-TaylorHostin.csprojAssemblyReference.cache
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA15-StudentRecord-TaylorHostin\ICA15-StudentRecord-TaylorHostin\obj\Debug\netcoreapp3.1\ICA15-StudentRecord-TaylorHostin.AssemblyInfoInputs.cache
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA15-StudentRecord-TaylorHostin\ICA15-StudentRecord-TaylorHostin\obj\Debug\netcoreapp3.1\ICA15-StudentRecord-TaylorHostin.AssemblyInfo.cs
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA15-StudentRecord-TaylorHostin\ICA15-StudentRecord-TaylorHostin\obj\Debug\netcoreapp3.1\ICA15-StudentRecord-TaylorHostin.csproj.CoreCompileInputs.cache
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA15-StudentRecord-TaylorHostin\ICA15-StudentRecord-TaylorHostin\obj\Debug\netcoreapp3.1\ICA15-StudentRecord-TaylorHostin.dll
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA15-StudentRecord-TaylorHostin\ICA15-StudentRecord-TaylorHostin\obj\Debug\netcoreapp3.1\ICA15-StudentRecord-TaylorHostin.pdb
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA15-StudentRecord-TaylorHostin\ICA15-StudentRecord-TaylorHostin\obj\Debug\netcoreapp3.1\ICA15-StudentRecord-TaylorHostin.genruntimeconfig.cache

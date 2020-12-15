@@ -1,0 +1,9 @@
+C:\Users\T-Raw\Documents\GitHub\CMPE\LAB4-Hangman-TaylorHostin\LAB4-Hangman-TaylorHostin\bin\Debug\LAB4-Hangman-TaylorHostin.exe.config
+C:\Users\T-Raw\Documents\GitHub\CMPE\LAB4-Hangman-TaylorHostin\LAB4-Hangman-TaylorHostin\bin\Debug\LAB4-Hangman-TaylorHostin.exe
+C:\Users\T-Raw\Documents\GitHub\CMPE\LAB4-Hangman-TaylorHostin\LAB4-Hangman-TaylorHostin\bin\Debug\LAB4-Hangman-TaylorHostin.pdb
+C:\Users\T-Raw\Documents\GitHub\CMPE\LAB4-Hangman-TaylorHostin\LAB4-Hangman-TaylorHostin\bin\Debug\GDIDrawer.dll
+C:\Users\T-Raw\Documents\GitHub\CMPE\LAB4-Hangman-TaylorHostin\LAB4-Hangman-TaylorHostin\obj\Debug\LAB4-Hangman-TaylorHostin.csprojAssemblyReference.cache
+C:\Users\T-Raw\Documents\GitHub\CMPE\LAB4-Hangman-TaylorHostin\LAB4-Hangman-TaylorHostin\obj\Debug\LAB4-Hangman-TaylorHostin.csproj.CoreCompileInputs.cache
+C:\Users\T-Raw\Documents\GitHub\CMPE\LAB4-Hangman-TaylorHostin\LAB4-Hangman-TaylorHostin\obj\Debug\LAB4-Hangman-TaylorHostin.csproj.CopyComplete
+C:\Users\T-Raw\Documents\GitHub\CMPE\LAB4-Hangman-TaylorHostin\LAB4-Hangman-TaylorHostin\obj\Debug\LAB4-Hangman-TaylorHostin.exe
+C:\Users\T-Raw\Documents\GitHub\CMPE\LAB4-Hangman-TaylorHostin\LAB4-Hangman-TaylorHostin\obj\Debug\LAB4-Hangman-TaylorHostin.pdb

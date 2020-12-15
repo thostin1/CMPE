@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace ICA15_StudentRecord_TaylorHostin
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            
+        }
+    }
+}

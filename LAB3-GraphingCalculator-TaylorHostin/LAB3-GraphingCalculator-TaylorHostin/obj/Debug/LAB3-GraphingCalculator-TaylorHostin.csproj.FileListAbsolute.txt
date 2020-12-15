@@ -1,0 +1,9 @@
+C:\Users\T-Raw\Documents\GitHub\CMPE\LAB3-GraphingCalculator-TaylorHostin\LAB3-GraphingCalculator-TaylorHostin\obj\Debug\LAB3-GraphingCalculator-TaylorHostin.csprojAssemblyReference.cache
+C:\Users\T-Raw\Documents\GitHub\CMPE\LAB3-GraphingCalculator-TaylorHostin\LAB3-GraphingCalculator-TaylorHostin\obj\Debug\LAB3-GraphingCalculator-TaylorHostin.csproj.CoreCompileInputs.cache
+C:\Users\T-Raw\Documents\GitHub\CMPE\LAB3-GraphingCalculator-TaylorHostin\LAB3-GraphingCalculator-TaylorHostin\bin\Debug\LAB3-GraphingCalculator-TaylorHostin.exe.config
+C:\Users\T-Raw\Documents\GitHub\CMPE\LAB3-GraphingCalculator-TaylorHostin\LAB3-GraphingCalculator-TaylorHostin\bin\Debug\LAB3-GraphingCalculator-TaylorHostin.exe
+C:\Users\T-Raw\Documents\GitHub\CMPE\LAB3-GraphingCalculator-TaylorHostin\LAB3-GraphingCalculator-TaylorHostin\bin\Debug\LAB3-GraphingCalculator-TaylorHostin.pdb
+C:\Users\T-Raw\Documents\GitHub\CMPE\LAB3-GraphingCalculator-TaylorHostin\LAB3-GraphingCalculator-TaylorHostin\bin\Debug\GDIDrawer.dll
+C:\Users\T-Raw\Documents\GitHub\CMPE\LAB3-GraphingCalculator-TaylorHostin\LAB3-GraphingCalculator-TaylorHostin\obj\Debug\LAB3-GraphingCalculator-TaylorHostin.csproj.CopyComplete
+C:\Users\T-Raw\Documents\GitHub\CMPE\LAB3-GraphingCalculator-TaylorHostin\LAB3-GraphingCalculator-TaylorHostin\obj\Debug\LAB3-GraphingCalculator-TaylorHostin.exe
+C:\Users\T-Raw\Documents\GitHub\CMPE\LAB3-GraphingCalculator-TaylorHostin\LAB3-GraphingCalculator-TaylorHostin\obj\Debug\LAB3-GraphingCalculator-TaylorHostin.pdb

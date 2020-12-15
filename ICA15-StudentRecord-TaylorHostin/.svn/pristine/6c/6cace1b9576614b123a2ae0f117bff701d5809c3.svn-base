@@ -1,0 +1,175 @@
+﻿using System;
+using System.Linq;
+using System.Text;
+
+namespace ICA15_StudentRecord_TaylorHostin
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string runAgain;
+
+            do
+            {
+
+                Console.Clear();
+
+                int userINput;
+
+                Console.WriteLine("\t\t\t\t\t\tTaylor Hostin Assignment 16 ");
+
+                userINput = GetValue("\nEnter the number of students in the class: ", 4, 10);
+  
+                string[] nameArray = new string[userINput];
+                double[] markArray = new double[userINput];
+
+                MakeRecords(ref nameArray, ref markArray, ref userINput);
+
+                Show(userINput, nameArray, markArray);
+
+                Average(nameArray, markArray, userINput);
+
+                Fails(nameArray, markArray, userINput);
+
+                Console.Write("\n\nRun program again(y/n)? ");
+                runAgain = Console.ReadLine();
+
+            } while (runAgain == "y" || runAgain == "Y");
+
+        }
+
+        static private int GetValue(string prompt, int min, int max)
+        {
+            int value; //size from user
+
+            //display prompt
+            Console.Write(prompt);
+
+            //while statement checking for valid range and valid int
+            while ((!int.TryParse(Console.ReadLine(), out value)) || (value < min) || (value > max))
+            {
+                if ((value < min) || (value > max))
+                {
+                    Console.WriteLine("Value out of range");
+                    Console.Write(prompt);
+                }
+                else
+                {
+                    Console.WriteLine("Please input an integer");
+                    Console.Write(prompt);
+                }
+            }
+
+            return value;
+        }
+        
+        static private void MakeRecords(ref string[] nameArray, ref double[] marksArray, ref int userInput)
+        {
+            for (int i = 0; i < userInput; i++)
+            {
+                double mark;
+                
+
+                Random random = new Random();
+                int integer = random.Next(1, 100);
+                double doub = random.NextDouble();
+
+                mark = integer + (Math.Round(doub, 1));
+
+                marksArray[i] = mark;
+
+                Random random2 = new Random();
+                int length = random.Next(5, 13);
+                
+
+                // creating a StringBuilder object()
+                StringBuilder str_build = new StringBuilder();
+                Random random3 = new Random();
+
+                char letter;
+
+                for (int j = 0; j < length; j++)
+                {
+
+                    double flt = random.NextDouble();
+                    int shift = Convert.ToInt32(Math.Floor(25 * flt));
+                    letter = Convert.ToChar(shift + 65);
+                    if (j != 0)
+                    {
+                        letter = char.ToLower(letter);
+                    }
+
+                    str_build.Append(letter);
+
+                }
+                nameArray[i] = (str_build.ToString());
+                
+
+
+            }
+        }
+
+        static private void Show(int userInput, string[] nameArray, double[] markArray)
+        {
+            
+
+            Console.Write($"\n{"Name",15:C} Mark");
+            Console.Write($"\n{"----",15:C} ----");
+
+            for (int i = 0; i < userInput; i++)
+            {
+                
+                Console.Write($"\n{nameArray[i],15:C} : {markArray[i]}");
+            }
+        
+        }   
+     
+        static private void Average(string[] nameArray, double[] markArray, int userInput)
+        {
+            double total =0;
+            double average;
+
+            for (int i = 0; i < userInput; i++)
+            {
+                total += markArray[i];
+            }
+
+            average = total / userInput;
+
+          
+            var nearest = markArray.OrderBy(x => Math.Abs((long)x - average)).First();
+            int placeholder = 0;
+            for (int i = 0; i < userInput; i++)
+            {
+                if (markArray[i] == nearest)
+                {
+                    placeholder = i;
+                }
+            }
+
+            
+            Console.WriteLine($"\n\nThe average of the marks is {average:F1} percent.");
+            Console.WriteLine($"{nameArray[placeholder]} with {nearest} is closest to the average. ");
+            
+        }
+    
+        static private void Fails(string[] nameArray, double[] markArray, int userInput)
+        {
+
+            Console.WriteLine("\nHere is a list of failing students...");
+            Console.Write($"\n{"Name",15:C} Mark");
+            Console.Write($"\n{"----",15:C} ----");
+
+            for (int i = 0; i < userInput; i++)
+            {
+
+                if (markArray[i] < 50)
+                {
+                    Console.Write($"\n{nameArray[i],15:C} : {markArray[i]}");
+                }
+            }
+        }
+        
+    }
+}

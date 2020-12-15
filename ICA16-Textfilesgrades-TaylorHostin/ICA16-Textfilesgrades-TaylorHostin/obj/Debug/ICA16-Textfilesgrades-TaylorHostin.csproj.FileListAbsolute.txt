@@ -1,0 +1,7 @@
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA16-Textfilesgrades-TaylorHostin\ICA16-Textfilesgrades-TaylorHostin\bin\Debug\ICA16-Textfilesgrades-TaylorHostin.exe.config
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA16-Textfilesgrades-TaylorHostin\ICA16-Textfilesgrades-TaylorHostin\bin\Debug\ICA16-Textfilesgrades-TaylorHostin.exe
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA16-Textfilesgrades-TaylorHostin\ICA16-Textfilesgrades-TaylorHostin\bin\Debug\ICA16-Textfilesgrades-TaylorHostin.pdb
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA16-Textfilesgrades-TaylorHostin\ICA16-Textfilesgrades-TaylorHostin\obj\Debug\ICA16-Textfilesgrades-TaylorHostin.csprojAssemblyReference.cache
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA16-Textfilesgrades-TaylorHostin\ICA16-Textfilesgrades-TaylorHostin\obj\Debug\ICA16-Textfilesgrades-TaylorHostin.csproj.CoreCompileInputs.cache
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA16-Textfilesgrades-TaylorHostin\ICA16-Textfilesgrades-TaylorHostin\obj\Debug\ICA16-Textfilesgrades-TaylorHostin.exe
+C:\Users\T-Raw\Documents\GitHub\CMPE\ICA16-Textfilesgrades-TaylorHostin\ICA16-Textfilesgrades-TaylorHostin\obj\Debug\ICA16-Textfilesgrades-TaylorHostin.pdb

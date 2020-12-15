@@ -1,0 +1,198 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Drawing;
+using GDIDrawer;
+
+namespace LAB3_GraphingCalculator_TaylorHostin
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double a;
+            double b;
+            double c;
+            double rootOne;
+            int lower;
+            int upper;
+
+            Console.WriteLine("Quadratic Equation Graph");
+
+            GetCoefficients(out a, out b, out c);
+
+            GetRange(out lower, out upper);
+
+            rootOne = Quadratic(ref a, ref b, ref c);
+
+            DrawGraph(ref lower, ref upper, ref a, ref b, ref c, ref rootOne);
+
+
+        }
+        static private double GetValue(string prompt)
+        {
+            double value; //size from user
+
+            //display prompt
+            Console.Write($"\n{prompt}");
+
+            //while statement checking for valid range and valid int
+            while (!double.TryParse(Console.ReadLine(), out value))
+            {
+                
+                    Console.WriteLine("Please input a number");
+                    Console.Write($"\n{prompt}");
+            }
+
+            return value;
+
+        }
+
+
+        static private int GetValue(string prompt, int min, int max)
+        {
+            int value; //size from user
+
+            //display prompt
+            Console.Write($"\n{prompt}");
+
+            //while statement checking for valid range and valid int
+            while ((!int.TryParse(Console.ReadLine(), out value)) || (value < min) || (value > max))
+            {
+                if ((value < min) || (value > max))
+                {
+                    Console.WriteLine("Value out of range");
+                    Console.Write($"\n{prompt}");
+                }
+                else
+                {
+                    Console.WriteLine("Please input a number");
+                    Console.Write($"\n{prompt}");
+                }
+            }
+
+            return value;
+            
+        }
+        static private void GetCoefficients(out double a, out double b, out double c)
+        {
+            double d;
+
+            a = GetValue("Enter a value for a: ");
+
+            b = GetValue("Enter a value for b: ");
+
+            c = GetValue("Enter a value for c: ");
+
+            d = (b * b) - (4 * a * c);
+
+            while (d < 0)
+            {
+
+                Console.WriteLine("\nError. no real number solution exists.");
+
+                a = GetValue("Enter a value for a: ");
+
+                b = GetValue("Enter a value for b: ");
+
+                c = GetValue("Enter a value for c: ");
+
+                d = (b * b) - (4 * a * c);
+                
+            }
+        }
+    
+        static private void GetRange(out int lower, out int upper)
+        {
+
+            lower = GetValue("Enter the lower limit: ", -10, 10);
+
+            upper = GetValue("Enter the upper limit: ", -10, 10);
+
+            while (lower > upper)
+            {
+                Console.WriteLine("Invalid. lower limit must be less than upper limit.");
+
+                lower = GetValue("Enter the lower limit: ", -10, 10);
+
+                upper = GetValue("Enter the upper limit: ", -10, 10);
+            }
+
+        }
+        
+        static private double Quadratic(ref double a, ref double b, ref double c)
+        {
+            double d, rootOne, rootTwo;
+
+
+            d = b * b - 4 * a * c;
+
+            if (d == 0)
+            {
+                
+                rootOne = -b / (2.0 * a);
+
+                return rootOne;
+                                
+            }
+            
+
+                rootOne = (-b + Math.Sqrt(d)) / (2 * a);
+                rootTwo = (-b - Math.Sqrt(d)) / (2 * a);
+
+                return rootOne;
+        }
+    
+        static private void DrawGraph(ref int lower, ref int upper, ref double a, ref double b, ref double c, ref double rootOne)
+        {
+            CDrawer Canvas = new CDrawer(800, 600);
+
+            Point newPoint = new Point();
+            newPoint.X = 400;
+            newPoint.Y = 600;
+
+            Canvas.AddLine(newPoint, 800, 0, Color.Green, 2);
+
+
+            Point newPoint2 = new Point();
+            newPoint2.X = 0;
+            newPoint2.Y = 300;
+
+
+            Canvas.AddLine(newPoint2, 800, (Math.PI/2), Color.Green, 2);
+
+            for (int x = 0; x < 800; x = x+50)
+            {
+                Point newPointtickX = new Point();
+                newPointtickX.X = 0 +x;
+                newPointtickX.Y = 305;
+
+                
+
+                Canvas.AddLine(newPointtickX, 10, 0, Color.Green, 2);
+
+            }
+
+            for (int y = 0; y < 800; y = y + 50)
+            {
+                Point newPointtickY = new Point();
+                newPointtickY.X = 395;
+                newPointtickY.Y = 0 + y;
+
+                
+
+                Canvas.AddLine(newPointtickY, 10, (Math.PI/2), Color.Green, 1);
+
+            }
+
+            Canvas.AddEllipse(((int)rootOne*50)+225, ((int)-c*50)-1300, 350, 1600, Color.Empty, 1, Color.White);
+
+            Console.ReadLine();
+
+
+
+        }
+    }    
+}
